@@ -1,0 +1,19 @@
+body,input,textarea,select {
+    font-family:'Arial';
+    font-weight:300;
+    color:#777
+}
+
+
+h1 {
+  text-align:center;
+  font-size:30px
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top:50px
+}
