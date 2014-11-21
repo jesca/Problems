@@ -5,18 +5,18 @@ class Car:
                 self.color = color
 
 
-        def getDistance():
+        def getDistance(self):
                 #return the total distance that the car has driven
                 pass
 
-        def getModel():
+        def getModel(self):
                 #returns the car’s model
                 pass
 
-        def getColor():
+        def getColor(self):
                # return the color of the car.
                pass
 
-        def drive(distance):
+        def drive(self,distance):
                # when user ‘drives’, then we want to increase the variable ‘totalDistance’ by the distance driven
                pass
